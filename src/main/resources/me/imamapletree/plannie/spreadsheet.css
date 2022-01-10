@@ -1,0 +1,16 @@
+.spreadsheet-button {
+}
+
+.spreadsheet-button:hover {
+    -fx-opacity: 0.5;
+}
+
+.notebar {
+    -fx-background-color: #ffe8f4;
+}
+
+.note-button {
+    -fx-background-color: #55a377;
+    -fx-color: white;
+    -fx-text-fill: white;
+}
